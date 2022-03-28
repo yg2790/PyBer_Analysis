@@ -1,1 +1,11 @@
-# PyBer_Analysis
+# PyBer Analysis
+## Overview
+Ride sharing data visualization analysis for V. Isualize with pandas to explore data trends in different city types during a given time frame. <br />
+## Results
+- Results show that the urban districts has the highest number of users and driviers with 1625 total rides and 2405 total drivers. This is common because urban regions has the highest population density, with more people there will likely be more users. Furthermore, since cities and urban regions are more packed, more people are more likely to use ride-shares rather than driving with higher costs associated with car ownership.<br />
+- However rural area displayed the highest average fare per ride with $34.62, highest average fare per driver of $55.49. This might be due to low population density in these regions, meaning that users are more spread out in a larger area, causing each journey to be longer, therefore more expensive. <br />
+- Urban region is also the only area out of the three that has a higher average fare per ride than average fare per driver as there are more driver than rides, which illustrates higher level of supply to the demand in urban regions in comparison to the other two regions<br />
+<img width="704" alt="Screen Shot 2022-03-27 at 7 42 29 PM" src="https://user-images.githubusercontent.com/98621924/160317606-29776794-3f21-4fa5-b05a-0b368017f57c.png"><br />
+## Summary 
+As we can see from the graph illustrating the total fares by city type between January to April 2019, urban regions has the highest level of demand. The graph also saw a peak in late february in total fares in all three city types  at the same time. We can look more specifically into the cause of this peak in the next steps of our analysis. I recommand the firm to continue our focus and direct more advertisement expenses to urban regions as it shows the most potential for market expansion with not only the highest fares but also higher number of drivers than rides. We should aim to increase total rides for urban regions to exceed to meet the number of total drivers by the next quarter, which will greatly increase total fares.<br />
+![PyBer_fare_summary](https://user-images.githubusercontent.com/98621924/160318227-1bc10dac-fcfc-4090-b57c-6507092d50c0.png)<br />
